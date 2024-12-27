@@ -45,8 +45,8 @@ Proyek ini terinspirasi oleh **[FakeStoreAPI](https://fakestoreapi.com)** yang m
 Clone repository berikut untuk memulai:  
 
 ```bash  
-git clone <repository-url>  
-cd <repository-directory>  
+git clone https://github.com/dioarafll/SecureStoreAPI.git  
+cd SecureStoreAPI
 ```  
 
 ### 2. Instalasi Dependensi  
